@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyFirstJava3DProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFirstJava3DProgram_jar</output-path>
+    <root id="archive" name="MyFirstJava3DProgram.jar">
+      <element id="module-output" name="MyFirstJava3DProgram" />
+    </root>
+  </artifact>
+</component>
